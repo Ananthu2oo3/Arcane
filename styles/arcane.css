@@ -276,3 +276,46 @@ color: #FFFFFF;
     border-radius: 50px 0px;
     transform: rotate(-180deg);
 }
+.nontechtitlebox{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 418.61px;
+    height: 72.78px;
+    left: 1050px;
+    top: 1978px;
+
+    background: rgba(0, 0, 0, 0.75);
+    border: 3px solid #000000;
+    border-radius: 0px 50px 0px 0px;
+}
+
+.workshoptitlebox{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 418.61px;
+    height: 72.78px;
+    left: 1050px;
+    top: 2380px;
+
+    background: rgba(0, 0, 0, 0.75);
+    border: 3px solid #000000;
+    border-radius: 0px 50px 0px 0px;
+}
+.techtitle{
+    position: absolute;
+    width: 416.2px;
+    height: 52.33px;
+    left: calc(50% - 416.2px/2 - 170px);
+    top: 1600px;
+
+    font-family: 'Dune Rise';
+    font-style: normal;
+    font-weight: 250;
+    font-size: 33px;
+    line-height: 125px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
