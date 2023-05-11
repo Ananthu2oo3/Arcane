@@ -320,6 +320,68 @@ color: #FFFFFF;
     color: #FFFFFF;
 }
 
+.arrow{
+    width: 45px;
+    height: 45px;
+}
+.arrow .techarrow{
+    position: absolute;
+    width: 37px;
+    height: 40px;
+    left: 900px;
+    top: 1670px;
+    background-image: url("/assets/arrow_.png");
+    background-size: cover;
+}
+
+.arrow .techarrow:hover {
+    width: 37px;
+    height: 40px;
+    left: 905px;
+    top: 1670px;
+    background-image: url("/assets/arrows.png");
+}
+
+
+
+.arrow .nontecharrow{
+    position: absolute;
+    width: 37px;
+    height: 40px;
+    left: 1380px;
+    top: 2000px;
+    background-image: url("/assets/arrow_.png");
+    background-size: cover;
+}
+
+.arrow .nontecharrow:hover {
+    width: 37px;
+    height: 40px;
+    left: 1385px;
+    top: 2000px;
+    background-image: url("/assets/arrows.png");
+}
+
+
+.arrow .workarrow{
+    position: absolute;
+    width: 37px;
+    height: 40px;
+    left: 1350px;
+    top: 2399px;
+    background-image: url("/assets/arrow_.png");
+    background-size: cover;
+}
+
+.arrow .workarrow:hover {
+    width: 37px;
+    height: 40px;
+    left: 1355px;
+    top: 2399px;
+    background-image: url("/assets/arrows.png");
+}
+
+
 .nontechtitle{
     position: absolute;
 width: 416.2px;
@@ -337,6 +399,8 @@ text-align: center;
 color: #FFFFFF;
 
 }
+
+
 
 .workshoptitle{
     position: absolute;
@@ -357,10 +421,10 @@ color: #FFFFFF;
 
 .caption{
     position: absolute;
-    width: 400px;
+    width: 450px;
     height: 300px;
     top: 1670px;
-    left: 90px;
+    left: 70px;
 
     font-family: 'Montserrat';
     font-style: normal;
@@ -369,4 +433,13 @@ color: #FFFFFF;
     line-height: 48px;
 
     color: #FFFFFF;
+}
+
+.tebg{
+    position: absolute;
+    width: 1850px;
+    height: 1321px;
+    left: 0px;
+    top: 2650px;
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75));
 }
