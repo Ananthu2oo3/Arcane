@@ -321,7 +321,7 @@ color: #FFFFFF;
 }
 
 .arrow{
-    width: 45px;
+    width: 60px;
     height: 45px;
 }
 .arrow .techarrow{
@@ -438,8 +438,163 @@ color: #FFFFFF;
 .tebg{
     position: absolute;
     width: 1850px;
-    height: 1321px;
+    height: 1000px;
     left: 0px;
     top: 2650px;
     background: linear-gradient(0deg, rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75));
+}
+
+.tehead{
+    position: absolute;
+    width: 550px;
+    height: 102px;
+    /* left: calc(50% - 622px/2 - 610px); */
+    left: 50px;
+    top: 2700px;
+
+    font-family: 'Dune Rise';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 70px;
+    line-height: 102px;
+    text-align: left;
+
+    color: #FFFFFF;
+
+}
+
+
+.bg1{
+    position: absolute;
+    width: 475px;
+    height: 550px;
+    left: 50px;
+    top: 3000px;
+}
+
+.title1{
+    position: absolute;
+    width: 350px;
+    height: 100px;
+    top: 3058px;
+    left: 200px;
+
+    font-family: "Dune Rise";
+    font-weight: 1000;
+    font-size: 20px;
+    color: black;
+}
+
+.button1{
+    position: absolute;
+    width: 350px;
+    height: 100px;
+    top: 3485px;
+    left: 308px;
+
+    font-family: "Dune Rise";
+    font-weight: 1000;
+    font-size: 13px;
+    color: black;
+}
+
+.bg2{
+    position: absolute;
+    width: 475px;
+    height: 550px;
+    left: 475px;
+    top: 3000px;
+}
+
+.title2{
+    position: absolute;
+    width: 350px;
+    height: 100px;
+    top: 3058px;
+    left: 600px;
+
+    font-family: "Dune Rise";
+    font-weight: 1000;
+    font-size: 20px;
+    color: black;
+}
+
+.button2{
+    position: absolute;
+    width: 350px;
+    height: 100px;
+    top: 3485px;
+    left: 730px;
+
+    font-family: "Dune Rise";
+    font-weight: 1000;
+    font-size: 13px;
+    color: black;
+}
+.bg3{
+    position: absolute;
+    width: 475px;
+    height: 550px;
+    left: 900px;
+    top: 3000px;
+}
+
+.button3{
+    position: absolute;
+    width: 350px;
+    height: 100px;
+    top: 3485px;
+    left: 1158px;
+
+    font-family: "Dune Rise";
+    font-weight: 1000;
+    font-size: 13px;
+    color: black;
+}
+
+.title3{
+    position: absolute;
+    width: 350px;
+    height: 100px;
+    top: 3058px;
+    left: 1025px;
+
+    font-family: "Dune Rise";
+    font-weight: 1000;
+    font-size: 20px;
+    color: black;
+}
+
+.bg4{
+    position: absolute;
+    width: 475px;
+    height: 550px;
+    left: 1325px;
+    top: 3000px;
+}
+
+.title4{
+    position: absolute;
+    width: 350px;
+    height: 100px;
+    top: 3058px;
+    left: 1455px;
+
+    font-family: "Dune Rise";
+    font-weight: 1000;
+    font-size: 20px;
+    color: black;
+}
+
+.button4{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 3485px;
+    left: 1580px;
+
+    font-family: "Dune Rise";
+    font-weight: 1000;
+    font-size: 13px;
+    color: black;
 }
