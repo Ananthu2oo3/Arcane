@@ -1,9 +1,9 @@
 @font-face {
-    font-family: Montserrat ;
+    font-family: "Montserrat" ;
     src: url(/home/ananthu/Arcane/assets/Montserrat/Montserrat-VariableFont_wght.ttf);
 }
 @font-face {
-    font-family: Dune Rise;
+    font-family: "Dune Rise";
     src: url(/home/ananthu/Arcane/assets/dune_rise/Dune_Rise.ttf);
 }
 
@@ -454,7 +454,7 @@ color: #FFFFFF;
 
     font-family: 'Dune Rise';
     font-style: normal;
-    font-weight: 500;
+    font-weight: 700;
     font-size: 70px;
     line-height: 102px;
     text-align: left;
