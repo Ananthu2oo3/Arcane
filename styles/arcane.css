@@ -471,65 +471,12 @@ color: #FFFFFF;
     left: 50px;
     top: 3000px;
 }
-
-.title1{
-    position: absolute;
-    width: 350px;
-    height: 100px;
-    top: 3058px;
-    left: 200px;
-
-    font-family: "Dune Rise";
-    font-weight: 1000;
-    font-size: 20px;
-    color: black;
-}
-
-.button1{
-    position: absolute;
-    width: 350px;
-    height: 100px;
-    top: 3485px;
-    left: 308px;
-
-    font-family: "Dune Rise";
-    font-weight: 1000;
-    font-size: 13px;
-    color: black;
-}
-
 .bg2{
     position: absolute;
     width: 475px;
     height: 550px;
     left: 475px;
     top: 3000px;
-}
-
-.title2{
-    position: absolute;
-    width: 350px;
-    height: 100px;
-    top: 3058px;
-    left: 600px;
-
-    font-family: "Dune Rise";
-    font-weight: 1000;
-    font-size: 20px;
-    color: black;
-}
-
-.button2{
-    position: absolute;
-    width: 350px;
-    height: 100px;
-    top: 3485px;
-    left: 730px;
-
-    font-family: "Dune Rise";
-    font-weight: 1000;
-    font-size: 13px;
-    color: black;
 }
 .bg3{
     position: absolute;
@@ -538,33 +485,6 @@ color: #FFFFFF;
     left: 900px;
     top: 3000px;
 }
-
-.button3{
-    position: absolute;
-    width: 350px;
-    height: 100px;
-    top: 3485px;
-    left: 1158px;
-
-    font-family: "Dune Rise";
-    font-weight: 1000;
-    font-size: 13px;
-    color: black;
-}
-
-.title3{
-    position: absolute;
-    width: 350px;
-    height: 100px;
-    top: 3058px;
-    left: 1025px;
-
-    font-family: "Dune Rise";
-    font-weight: 1000;
-    font-size: 20px;
-    color: black;
-}
-
 .bg4{
     position: absolute;
     width: 475px;
@@ -573,28 +493,60 @@ color: #FFFFFF;
     top: 3000px;
 }
 
+
+
+.card{
+    position: absolute;
+    height: 100px;
+    width: 1800px;
+    top: 3055px;
+
+    font-family: "Dune Rise";
+    font-size: 20px;
+    font-weight: 1000;
+}
+.title1{
+    position: absolute;
+    left: 200px;  
+}
+.title2{
+    position: absolute;
+    left: 600px;  
+}
+.title3{
+    position: absolute;
+    left: 1020px;  
+}
 .title4{
     position: absolute;
-    width: 350px;
-    height: 100px;
-    top: 3058px;
-    left: 1455px;
-
-    font-family: "Dune Rise";
-    font-weight: 1000;
-    font-size: 20px;
-    color: black;
+    left: 1450px;  
 }
 
-.button4{
+
+
+.button{
     position: absolute;
-    width: 100px;
     height: 100px;
-    top: 3485px;
-    left: 1580px;
+    width: 1800px; 
+    top: 3480px;
 
     font-family: "Dune Rise";
+    font-size: 15px;
     font-weight: 1000;
-    font-size: 13px;
-    color: black;
+}
+.button1{
+    position: absolute;
+    left: 290px;
+}
+.button2{
+    position: absolute;
+    left: 720px;
+}
+.button3{
+    position: absolute;
+    left: 1145px;
+}
+.button4{
+    position: absolute;
+    left: 1570px;
 }
