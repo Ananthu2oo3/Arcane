@@ -497,7 +497,7 @@ color: #FFFFFF;
 
 .card{
     position: absolute;
-    height: 100px;
+    height: 50px;
     width: 1800px;
     top: 3055px;
 
@@ -526,17 +526,16 @@ color: #FFFFFF;
 
 .button{
     position: absolute;
-    height: 100px;
+    height: 50px;
     width: 1800px; 
     top: 3480px;
-
     font-family: "Dune Rise";
     font-size: 15px;
     font-weight: 1000;
 }
 .button1{
     position: absolute;
-    left: 290px;
+    left: 280px;
 }
 .button2{
     position: absolute;
