@@ -185,7 +185,7 @@ top: 1270px;
 border: 2px solid #FFFFFF;
 transform: rotate(-90deg);
 }
-.content{
+.intro{
     position: absolute;
 width: 953px;
 height: 442px;
@@ -548,4 +548,36 @@ color: #FFFFFF;
 .button4{
     position: absolute;
     left: 1570px;
+}
+
+.content{
+    position: absolute;
+    height : 500px;
+    width: 1800px;
+    top: 3110px;
+    left: 50px;
+    color: #FEFEFE;
+    font-family: "Montserrat";
+    font-size: 20px;
+    line-height:30px;
+}
+
+.content1{
+    position: absolute;
+    left: 100px;
+}
+
+.content2{
+    position: absolute;
+    left: 525px;
+}
+
+.content3{
+    position: absolute;
+    left: 940px;
+}
+
+.content4{
+    position: absolute;
+    left: 1370px;
 }
