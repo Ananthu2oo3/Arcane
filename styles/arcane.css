@@ -1,10 +1,10 @@
 @font-face {
     font-family: "Montserrat" ;
-    src: url(./assets/Montserrat/Montserrat-VariableFont_wght.ttf);
+    src: url('../assets/Montserrat/Montserrat-VariableFont_wght.ttf');
 }
 @font-face {
     font-family: "Dune Rise";
-    src: url(./assets/dune_rise/Dune_Rise.ttf);
+    src: url('../assets/dune_rise/Dune_Rise.ttf');
 }
 
 html{
