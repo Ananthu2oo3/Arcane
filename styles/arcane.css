@@ -18,7 +18,7 @@ html{
 }
 
 .bg{
-    width: 1845px;
+    width: 1830px;
     height: 1000px;
     background:"assets/bg.jpeg";
     letter-spacing: 0px;
@@ -115,7 +115,7 @@ html{
     position: absolute;
     width: 1040px;
     height: 46px;
-    left: 50%;
+    left: 425px;
     top: 340px;
 
     font-family: 'Dune Rise';
@@ -132,7 +132,7 @@ html{
     position: absolute;
     width: 985px;
     height: 277px;
-    left: calc(50% - 985px/2 + 7.5px);
+    left: 433px;
     top: 210px;
 
     font-family: 'Cyberpunks Italic';
@@ -149,7 +149,7 @@ html{
     position: absolute;
     width: 985px;
     height: 277px;
-    left: calc(50% - 985px/2 + 3.5px);
+    left: 428px;
     top: 200px;
 
     font-family: 'Cyberpunks Italic';
