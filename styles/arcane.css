@@ -1,10 +1,10 @@
 @font-face {
     font-family: "Montserrat" ;
-    src: url(/home/ananthu/Arcane/assets/Montserrat/Montserrat-VariableFont_wght.ttf);
+    src: url(./assets/Montserrat/Montserrat-VariableFont_wght.ttf);
 }
 @font-face {
     font-family: "Dune Rise";
-    src: url(/home/ananthu/Arcane/assets/dune_rise/Dune_Rise.ttf);
+    src: url(./assets/dune_rise/Dune_Rise.ttf);
 }
 
 html{
@@ -21,7 +21,7 @@ html{
     position: absolute;
     width: 1840px;
     height: 307px;
-    left: 3px;
+    left: 0.3%;
     top: -115px;
     /* background-color:white; */
 }
@@ -107,19 +107,19 @@ html{
 }
 .subtitle{
     position: absolute;
-width: 1040px;
-height: 46px;
-left: calc(50% - 1040px/2 + 35px);
-top: 340px;
+    width: 1040px;
+    height: 46px;
+    left: 50%;
+    top: 340px;
 
-font-family: 'Dune Rise';
-font-style: normal;
-font-weight: 400;
-font-size: 25px;
-line-height: 31px;
-text-align: center;
+    font-family: 'Dune Rise';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 31px;
+    text-align: center;
 
-color: #FFFFFF;
+    color: #FFFFFF;
 
 }
 .bhead{
@@ -137,7 +137,7 @@ color: #FFFFFF;
     text-align: center;
     letter-spacing: 8px;
 
-color: #9E1D1D;
+    color: #9E1D1D;
 }
 .fhead{
     position: absolute;
@@ -176,29 +176,29 @@ color: #9E1D1D;
 }
 .line{
     position: absolute;
-width: 400px;
-height: 0px;
-/* left: calc(50% - 482.13px/2 - 10.06px); */
-left: 450px;
-top: 1270px;
+    width: 400px;
+    height: 0px;
+    /* left: calc(50% - 482.13px/2 - 10.06px); */
+    left: 450px;
+    top: 1270px;
 
-border: 2px solid #FFFFFF;
-transform: rotate(-90deg);
+    border: 2px solid #FFFFFF;
+    transform: rotate(-90deg);
 }
 .intro{
     position: absolute;
-width: 953px;
-height: 442px;
-left: 750px;
-top: 1080px;
+    width: 953px;
+    height: 442px;
+    left: 750px;
+    top: 1080px;
 
-font-family: 'Montserrat';
-font-style: normal;
-font-weight: 300;
-font-size: 25px;
-line-height: 48px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 25px;
+    line-height: 48px;
 
-color: #FFFFFF;
+    color: #FFFFFF;
 }
 
 .eventbg{
@@ -384,19 +384,19 @@ color: #FFFFFF;
 
 .nontechtitle{
     position: absolute;
-width: 416.2px;
-height: 52.33px;
-left: 1010px;
-top: 1930px;
+    width: 416.2px;
+    height: 52.33px;
+    left: 1010px;
+    top: 1930px;
 
-font-family: 'Dune Rise';
-font-style: normal;
-font-weight: 650;
-font-size: 25px;
-line-height: 125px;
-text-align: center;
+    font-family: 'Dune Rise';
+    font-style: normal;
+    font-weight: 650;
+    font-size: 25px;
+    line-height: 125px;
+    text-align: center;
 
-color: #FFFFFF;
+    color: #FFFFFF;
 
 }
 
