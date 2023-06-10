@@ -17,6 +17,11 @@ html{
     background-color: #0A0A0A;
 }
 
+.header{
+    position: fixed;
+    width: 100vw;
+}
+
 .bg{
     width: 1830px;
     height: 1000px;
@@ -24,7 +29,7 @@ html{
     letter-spacing: 0px;
 }
 .titleline{
-    position: absolute;
+    position: fixed;
     width: 1840px;
     height: 307px;
     left: 0.3%;
@@ -33,24 +38,24 @@ html{
 }
 
 .titlebar{
-    position: absolute;
+    position: fixed;
     width: 1845px;
     height: 307px;
     left: 0px;
     top: -120px;
 }
 .creslogo{
-    position: absolute;
+    position: fixed;
     width: 500px;
     height: 160px;
     left: 1%;
     top: 5px;
 }
 .opthome{
-    position: absolute;
+    position: fixed;
     width: 182.98px;
     height: 46px;
-    left: 46%;
+    left: 800px;
     top: 20px;
 
     font-family: 'Dune Rise';
@@ -63,10 +68,10 @@ html{
     color: #FEFEFE;
 }
 .optabout{
-    position: absolute;
+    position: fixed;
     width: 182.98px;
     height: 46px;
-    left: 58%;
+    left: 1050px;
     top: 20px;
 
     font-family: 'Dune Rise';
@@ -79,10 +84,10 @@ html{
     color: #FEFEFE;
 }
 .optevents{
-    position: absolute;
+    position: fixed;
     width: 182.98px;
     height: 46px;
-    left: 70%;
+    left: 1280px;
     top: 20px;
 
     font-family: 'Dune Rise';
@@ -96,10 +101,10 @@ html{
 }
 
 .optworkshop{
-    position: absolute;
+    position: fixed;
     width: 182.98px;
     height: 46px;
-    left: 84%;
+    left: 1530px;
     top: 20px;
 
     font-family: 'Dune Rise';
